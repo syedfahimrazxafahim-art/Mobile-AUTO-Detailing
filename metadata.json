@@ -1,0 +1,6 @@
+{
+  "name": "Mobile AUTO Detailing",
+  "description": "Premium mobile auto detailing, ceramic coating, and paint correction specialists in Los Angeles, CA. Professional results at your doorstep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
